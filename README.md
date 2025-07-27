@@ -84,5 +84,7 @@ If you're curious about how I built this project or want to explore how nested o
 
 (*Image: Falling Star, Rotating Galaxies, Planetary Orbits, Earth–Moon System*)
 
+![Solar System Animation](Solar%20System1.png)
+
 ![Solar System Animation](Solar%20System.png)
 ---
