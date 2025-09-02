@@ -77,7 +77,7 @@ Fully responsive across all screen sizes — desktop, tablet, and mobile.
 
 ---
 
-## <span id="connect-with-me">📬 Connect with Me/span>  
+## <span id="connect-with-me">📬 Connect with Me</span>  
 
 - 📧 **Email**: [rajeevtiwari8055@gmail.com](mailto:rajeevtiwari8055@gmail.com)  
 - 💻 **GitHub**: [github.com/rajeevgit8055hub](https://github.com/rajeevgit8055hub)  
